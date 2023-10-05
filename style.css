@@ -1,1 +1,34 @@
+h1 {
+	text-align: center;
+	font-family: 'Helvetica Neue';
+	font-size: 50px;
+}
+
+div img {
+	width: 25%;
+	height: 25%;
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+div p {
+	font-size: 25px;
+	font-family: 'Helvetica Neue';
+	text-align: center;
+}
+
+h2, p {
+	color: pink;
+	font-size: 25px;
+	font-family: 'Helvetica Neue';
+	text-align: center;
+}
+
+div > a {
+	font-size: 25px;
+	font-family: 'Helvetica Neue';
+	text-align: center;
+
+}
 
